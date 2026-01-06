@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Friends",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:18:59.382238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Famous Friends",
+      "artist": "Chris Young feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Famous_Friends_Chris_Young_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Famous Friends",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/02_Famous_Friends_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friends Again",
+      "artist": "LVTHER feat. Claire Ridgely",
+      "has_synced": true,
+      "path": "select/03_Friends_Again_LVTHER_feat._Claire_Ridgely.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friends Again",
+      "artist": "LVTHER, Claire Ridgely",
+      "has_synced": true,
+      "path": "select/04_Friends_Again_LVTHER,_Claire_Ridgely.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Friends",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/05_Good_Friends_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All My Friends Drink Beer",
+      "artist": "Craig Campbell",
+      "has_synced": false,
+      "path": "select/06_All_My_Friends_Drink_Beer_Craig_Campbell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All My Friends Say",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/07_All_My_Friends_Say_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All My Friends Say (Album Version)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/08_All_My_Friends_Say_(Album_Version)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends (Have Settled Down)",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/09_All_My_Rowdy_Friends_(Have_Settled_Down)_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends Are Coming Over Tonight",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/10_All_My_Rowdy_Friends_Are_Coming_Over_Tonight_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bar Friends (Acoustic)",
+      "artist": "Restless Road",
+      "has_synced": true,
+      "path": "select/11_Bar_Friends_(Acoustic)_Restless_Road.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beer With My Friends",
+      "artist": "Kenny Chesney feat. Old Dominion",
+      "has_synced": true,
+      "path": "select/12_Beer_With_My_Friends_Kenny_Chesney_feat._Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beer With My Friends",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/13_Beer_With_My_Friends_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
+      "artist": "Shy Carter feat. Cole Swindell & David Lee Murphy",
+      "has_synced": true,
+      "path": "select/14_Beer_With_My_Friends_(feat._Cole_Swindell_and_David_Lee_Murphy)_Shy_Carter_feat._Cole_Swindell_&_David_Lee_Murphy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friends",
+      "artist": "BAD HOP, Vingo, JP THE WAVY, Benjazzy, YZERR, LEX",
+      "has_synced": false,
+      "path": "select/pl_01_Friends_BAD_HOP,_Vingo,_JP_THE_WAVY,_Benjazzy,_YZERR,_LEX.txt"
+    }
+  ]
+}
